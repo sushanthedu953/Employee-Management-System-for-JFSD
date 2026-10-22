@@ -1,11 +1,8 @@
 # Employee Management System In Java Swing
 
-![GitHub repo size](https://img.shields.io/github/repo-size/prathameshdhande22/Employee-Management-System?color=brown&logo=github&style=flat-square) &nbsp;
-![IDE](https://img.shields.io/badge/IDE-Eclipse%202022--12-yellowgreen?logo=eclipse&style=flat-square) &nbsp;
 ![Language](https://img.shields.io/badge/Language-Java-blue?logo=java&style=flat-square) &nbsp;
-![GitHub](https://img.shields.io/github/license/Prathameshdhande22/Employee-Management-System?logo=github)
 
-This is a Java Swing application for managing employee information. This project was created using JDK 17 and Eclipse 2022-12.
+This is a Java Swing application for managing employee information. This project was created using JDK 25 and Eclipse.
 
 It has the following functionalities:
 
