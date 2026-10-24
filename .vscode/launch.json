@@ -1,0 +1,17 @@
+// This file is used to configure the debugging environment for the Java application in Visual Studio Code. It specifies the main class to run, the working directory, and the class paths required for the application to function correctly.
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Employee Management System",
+            "request": "launch",
+            "mainClass": "project.Window",
+            "cwd": "${workspaceFolder}",
+            "classPaths": [
+                "${workspaceFolder}/bin",
+                "${workspaceFolder}/Resources/mysql-connector-java-8.0.30.jar"
+            ]
+        }
+    ]
+}
